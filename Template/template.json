@@ -1310,7 +1310,7 @@
           "name": "PGID"
         }
       ],
-      "image": "linuxserver/jackett:latest",
+      "image": "linuxserver/jackett:arm32v7-latest",
       "logo": "https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Images/jacket-icon.png",
       "name": "jackett",
       "platform": "linux",
