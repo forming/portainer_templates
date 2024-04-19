@@ -3083,7 +3083,7 @@
           "name": "PGID"
         }
       ],
-      "image": "hotio/sonarr:release",
+      "image": "linuxserver/sonarr:3.0.8.1507-ls151",
       "logo": "https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Images/sonarr-icon.png",
       "name": "sonarr",
       "platform": "linux",
