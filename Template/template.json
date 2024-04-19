@@ -2772,7 +2772,7 @@
           "name": "PGID"
         }
       ],
-      "image": "hotio/radarr:release",
+      "image": "linuxserver/radarr:arm32v7-4.4.1-develop",
       "logo": "https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Images/radarr.png",
       "name": "radarr",
       "platform": "linux",
