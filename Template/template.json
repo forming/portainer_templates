@@ -3158,7 +3158,7 @@
           "name": "PGID"
         }
       ],
-      "image": "linuxserver/tautulli:latest",
+      "image": "linuxserver/tautulli:arm32v7-v2.10.2-ls45",
       "logo": "https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Images/tautulli-icon.png",
       "name": "tautulli",
       "note": "<b>Port 8181</b> The webui for Tautulli's webui<br/></br>Configuration <ul><li><b>/config</b> - Storing Configuration and the Tautulli database</li><li><b>/logs</b> - Map to you plex logs (required for IP logging)</li></ul>",
