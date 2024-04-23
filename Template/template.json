@@ -189,7 +189,7 @@
           "name": "TZ"
         }
       ],
-      "image": "hotio/bazarr:release",
+      "image": "linuxserver/bazarr:arm32v7-development-16638721-ls15",
       "logo": "https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Images/bazarr.png",
       "name": "Bazarr",
       "platform": "linux",
