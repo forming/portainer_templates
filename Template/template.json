@@ -2644,7 +2644,7 @@
           "name": "PGID"
         }
       ],
-      "image": "ghcr.io/linuxserver/prowlarr:develop",
+      "image": "linuxserver/prowlarr:arm32v7-nightly-1.3.3.3084-ls572",
       "logo": "https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Images/prowlarr.png",
       "name": "prowlarr",
       "platform": "linux",
